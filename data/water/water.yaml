@@ -1,0 +1,36 @@
+id: water
+name:
+  zh: 水
+  en: Water
+category: 基础物质
+chemical_formula: H₂O
+properties:
+  - 无色
+  - 无味
+  - 液态
+obtain_methods:
+  - 方法: 天然水源
+    说明: 河流、湖泊、地下水等自然水体
+  - 方法: 人工净化
+    说明: 过滤、蒸馏、煮沸等方式处理
+  - 方法: 化学合成
+    说明: 氢气与氧气反应生成（实验室/工业）
+uses:
+  - target: 饮用
+    note: 维持生命必需，需符合饮用水标准
+  - target: 烹饪
+    note: 煮、蒸、炖等加热方式
+  - target: 清洁
+    note: 洗涤、冲洗、稀释
+  - target: 农业灌溉
+    note: 植物生长必需
+  - target: 工业冷却
+    note: 机器散热、发电厂等
+  - target: 溶剂
+    note: 溶解其他物质，用于化学反应
+variables:
+  温度: 影响状态（冰/水/蒸汽）和溶解能力
+  纯净度: 影响用途（饮用水需高纯净度，工业用水可较低）
+  矿物质含量: 硬水/软水，影响口感和洗涤效果
+  pH值: 影响化学反应和生物适应性
+reference: 通用知识，无需特定古籍
