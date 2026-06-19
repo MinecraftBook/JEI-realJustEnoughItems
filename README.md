@@ -28,7 +28,7 @@ Minecraft 有 [JEI (Just Enough Items)](https://github.com/mezz/JustEnoughItems)
 > - 熟悉某类工艺或古籍内容
 > - 愿意整理"这个怎么做、能做什么"
 > 
-> 详见 [CONTRIBUTING.md](./CONTRIBUTING.md)（待完善）
+> 详见 [CONTRIBUTING.md](github.com/MinecraftBook/JEI-realJustEnoughItems/blob/main/CONTRIBUTING.md)（待完善）
 
 ## 当前状态
 🚧 项目初创中，寻找同好与贡献者
